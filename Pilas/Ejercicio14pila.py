@@ -21,5 +21,5 @@ for i in range(0,6):
  
                   
 while(not pila_datos.pila_vacia()):
-       print(pila_datos.desapilar() + "ale sos mi hijo en el burako")
+       print(pila_datos.desapilar())
             
